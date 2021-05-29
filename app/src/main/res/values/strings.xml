@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">getfit</string>
+
+    <string-array name="genders">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+    <string-array name="excerfactor">
+        <item>little or no exercise</item>
+        <item>Lightly active</item>
+        <item>Moderately active</item>
+        <item>Very active</item>
+        <item>If you are extra active</item>
+
+    </string-array>
+
+</resources>
